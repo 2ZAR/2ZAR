@@ -27,6 +27,8 @@ also
 - Image Classification, Object Detection, Semantic Segmentation, Using TensorFlow with Amazon Sagemaker.
 - Data Analytics, Cloud Operation, DevOps, Code pipeline, S3, Identity and Access Management, Create a Virtual Private Cloud, Industrial IoT, etc...
 
+Nowadays I am studying ML, BlockChain, Cloud System.
+
 <!---
 2ZAR/2ZAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
