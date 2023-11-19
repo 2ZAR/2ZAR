@@ -1,8 +1,8 @@
 - 👋 Bonjour, c'est @2ZAR 
-- 👀 I work in Pharma as a microbiologist
-- 🌱 J'ai étudié la mode et la statistique à l'université, et j'ai étudié 中文 par moi-même.
-- 💞️ Хочу сотрудничать в области биоинформатики.
-- 📫 同年代同士開発プロジェクトチームを作りました。今後公開予定です。 よろしくお願い申し上げます。
+- 👀 I work in Pharma as a Environment Monitoring Lead QC Microbiology Dept.
+- 🌱 I've learned Fashion Design, Logistics, Japanese, Bio System, Statistics.
+- 💞️ I plan to transfer once more and continue my studies majoring in French Language and Culture. My double major is computer science.
+- 📫 Graduate school is held concurrently with undergraduate school. My major is financial engineering.
 - I had experience in various libraries and packages in the field of bioinformatics using Python, Perl and R language. Also had experience in the field of Statistics using SPSS, SAS
 
 What did
